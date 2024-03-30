@@ -18,3 +18,15 @@ Third Try with Second Example including ... but they are raised.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+#### Adding a Task List
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+#### Adding the other Task List Example
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
