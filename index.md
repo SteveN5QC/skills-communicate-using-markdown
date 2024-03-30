@@ -13,3 +13,8 @@ This is plain text -- Adding Code Snip -- Second Try with ... before and after
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+Third Try with Second Example including ... but they are raised.
+
+``` javascript
+var myVar = "Hello, world!";
+```
